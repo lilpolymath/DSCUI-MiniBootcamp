@@ -15,7 +15,7 @@ This is a Dev and Designer mini-bootcamp aimed to advance the skills of every pa
 
 ### Notes
 
-- In case of any problems, kindly reach out to the admin of DSU-UI's WhatsApp group page.
+- In case of any problem, kindly reach out to the admin of DSU-UI's WhatsApp group page.
 
 ### External Resources
 
